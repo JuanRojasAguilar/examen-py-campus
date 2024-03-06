@@ -1,0 +1,9 @@
+{
+    "1": {
+        "ID": "1",
+        "Nombre": "LAPIZ",
+        "ValorUnitario": 1200.0,
+        "StockMinimo": 7,
+        "StockMaximo": 12
+    }
+}
